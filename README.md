@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @illia-lykhoshvai
 - 👀 I’m interested in embedded software development and electronics, writing high-level languages to ease my routines, interact with electronics
-- 🌱 I’m working with MCU firmware, RTOS, Python
+- 🌱 My professional field includes working with MCU firmware, RTOS, and everything low-level related.
 - 💞️ I’m looking to collaborate on any projects related to my interests
 - 📫 You can reach me @ ( illialykhoshvai@gmail.com )
 
